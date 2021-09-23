@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# ProjectIO files
+CMakeLists.txt
+*.json
+.idea
+.pio
+CMakeListsPrivate.txt
+cmake-build-*/ 
