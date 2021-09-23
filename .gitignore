@@ -38,3 +38,6 @@ CMakeLists.txt
 .pio
 CMakeListsPrivate.txt
 cmake-build-*/ 
+
+# Things already on github
+/Embedded_Systems
