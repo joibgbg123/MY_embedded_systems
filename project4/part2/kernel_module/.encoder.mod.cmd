@@ -1,0 +1,1 @@
+cmd_/home/pi/MY_embedded_systems/project4/part2/kernel_module/encoder.mod := { echo  /home/pi/MY_embedded_systems/project4/part2/kernel_module/encoder.o;  echo; } > /home/pi/MY_embedded_systems/project4/part2/kernel_module/encoder.mod

@@ -1,0 +1,1 @@
+cmd_/home/pi/MY_embedded_systems/project4/part2/kernel_module/encoder.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/MY_embedded_systems/project4/part2/kernel_module/encoder.ko /home/pi/MY_embedded_systems/project4/part2/kernel_module/encoder.o /home/pi/MY_embedded_systems/project4/part2/kernel_module/encoder.mod.o;  true
