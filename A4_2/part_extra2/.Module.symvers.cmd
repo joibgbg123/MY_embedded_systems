@@ -1,1 +1,0 @@
-cmd_/home/pi/projects/A4_2/part_extra2/Module.symvers := sed 's/ko$$/o/' /home/pi/projects/A4_2/part_extra2/modules.order | scripts/mod/modpost -m -a   -o /home/pi/projects/A4_2/part_extra2/Module.symvers -e -i Module.symvers   -T -

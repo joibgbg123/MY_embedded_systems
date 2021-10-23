@@ -1,1 +1,0 @@
-cmd_/home/pi/projects/A4_2/part_extra2/mydev.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/projects/A4_2/part_extra2/mydev.ko /home/pi/projects/A4_2/part_extra2/mydev.o /home/pi/projects/A4_2/part_extra2/mydev.mod.o;  true
